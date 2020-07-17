@@ -1,0 +1,14 @@
+const types = {
+    ADD_HER0: 'ADD_HERO',
+    ADD_TEAM: 'ADD_TEAM',
+    DELETE_HERO: 'DELETE_HERO',
+    DELETE_TEAM: 'DELETE_TEAM',
+    UPDATE_HERO: 'UPDATE_HERO',
+    UPDATE_TEAM: 'UPDATE_TEAM',
+    GET_HEROES: 'GET_HEROES',
+    GET_TEAMS: 'GET_TEAMS',
+    SET_HERO: 'SET_HERO',
+    DELETE_HEROES: 'DELETE_HEROES'
+};
+
+module.exports=types;
